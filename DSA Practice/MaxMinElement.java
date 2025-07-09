@@ -8,15 +8,12 @@ public class MaxMinElement {
             if(arr[i]>maximum){
                 maximum=arr[i];
             }
-            if(arr[i]<min){
+            if(arr[i]<minimum){
                 minimum=arr[i];
         }
      }
         System.out.println("Maximum Element is:"+maximum+"\n"+"Minimum Element is:"+minimum); 
     } 
-    
-    System.out.println("Miniimum Element is:"+minimum);
-    }
     public static void main(String args[]){
         int arr[]=new int[]{3,2,1,56,10000,167};
         maxMinElement(arr);
