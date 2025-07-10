@@ -18,7 +18,7 @@ This repository contains my daily Java solutions to Data Structures and Algorith
 | No. | Problem Title            | Description                                  | File Name               | Problem Link |
 |-----|---------------------------|----------------------------------------------|--------------------------|--------------|
 | 1️⃣ | Reverse an Array          | Reverses the elements of an array            | ReverseArray.java        | [GFG - Reverse Array](https://www.geeksforgeeks.org/write-a-program-to-reverse-an-array-or-string/) |
-| 2️⃣ | Find Max & Min Element    | Finds largest and smallest in an array       | MaxMinElement.java       | [GFG - Max & Min](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/) |
+| 2️⃣ | Find Max & Min Element    | Finds largest and smallest in an array       | MaxMinElement.java       | [GFG - Max & Min Element](https://www.geeksforgeeks.org/maximum-and-minimum-in-an-array/) |
 | 3️⃣ | Check if Array is Sorted  | Checks if array is sorted in ascending order | CheckSort.java           | [GFG - Check Sorted](https://www.geeksforgeeks.org/check-if-an-array-is-sorted/) |
 
 ---
@@ -30,4 +30,4 @@ CSE | 3rd Year | Java & DSA Enthusiast
 
 ---
 
-_Consistency is the key to success!_
+_Consistency is the key to success!_ 🔑✨
