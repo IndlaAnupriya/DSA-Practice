@@ -6,12 +6,13 @@ This repository contains my daily Java solutions to Data Structures and Algorith
 
 ## 📅 Daily Progress
 
-| Date       | Problem(s) Solved                                                             |
+| Date       | Problems Solved                                                             |
 |------------|--------------------------------------------------------------------------------|
 | 2025-07-09 | Reverse Array, Max & Min                                                       |
 | 2025-07-10 | Check if Array is Sorted, Remove Duplicates                                    |
 | 2025-07-11 | Second Largest, Second Smallest in Array, Rotate by One                       |
 | 2025-07-12 | Move Zeros to End, Linear Search                                               |
+| 2025-07-13 | Rotate Array by D Places, Find Missing Element                                 |
 
 ---
 
@@ -28,6 +29,8 @@ This repository contains my daily Java solutions to Data Structures and Algorith
 | 7️⃣ | Rotate Array by One Position     | Rotates array elements to the right by one position | RotateByOne.java           | [GFG](https://www.geeksforgeeks.org/c-program-cyclically-rotate-array-one/) |
 | 8️⃣ | Move Zeros to End                | Moves all zeros in the array to the end             | MoveZerosToEnd.java        | [LeetCode](https://leetcode.com/problems/move-zeroes/) |
 | 9️⃣ | Linear Search                    | Searches for an element linearly in the array       | LinearSearch.java          | [GFG](https://www.geeksforgeeks.org/linear-search/) |
+| 🔟 | Rotate Array by D Places          | Rotates array elements to the right by d positions  | RotateByDPlaces.java       | [GFG](https://www.geeksforgeeks.org/array-rotation/) |
+| 1️⃣1️⃣ | Find Missing Element             | Finds the missing number in range 1 to n            | FindMissingElement.java    | [GFG](https://www.geeksforgeeks.org/find-the-missing-number/) |
 
 ---
 
