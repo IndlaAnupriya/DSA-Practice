@@ -7,12 +7,12 @@ This repository contains my daily Java solutions to Data Structures and Algorith
 ## 📅 Daily Progress
 
 | Date       | Problems Solved                                                             |
-|------------|--------------------------------------------------------------------------------|
-| 2025-07-09 | Reverse Array, Max & Min                                                       |
-| 2025-07-10 | Check if Array is Sorted, Remove Duplicates                                    |
-| 2025-07-11 | Second Largest, Second Smallest in Array, Rotate by One                       |
-| 2025-07-12 | Move Zeros to End, Linear Search                                               |
-| 2025-07-13 | Rotate Array by D Places, Find Missing Element                                 |
+|------------|------------------------------------------------------------------------------|
+| 2025-07-09 | Reverse Array, Max & Min                                                     |
+| 2025-07-10 | Check if Array is Sorted, Remove Duplicates                                  |
+| 2025-07-11 | Second Largest, Second Smallest in Array, Rotate by One                      |
+| 2025-07-12 | Move Zeros to End, Linear Search                                              |
+| 2025-07-13 | Rotate Array by D Places, Find Missing Element, Max Consecutive Zeros        |
 
 ---
 
@@ -31,6 +31,7 @@ This repository contains my daily Java solutions to Data Structures and Algorith
 | 9️⃣ | Linear Search                    | Searches for an element linearly in the array       | LinearSearch.java          | [GFG](https://www.geeksforgeeks.org/linear-search/) |
 | 🔟 | Rotate Array by D Places          | Rotates array elements to the right by d positions  | RotateByDPlaces.java       | [GFG](https://www.geeksforgeeks.org/array-rotation/) |
 | 1️⃣1️⃣ | Find Missing Element             | Finds the missing number in range 1 to n            | FindMissingElement.java    | [GFG](https://www.geeksforgeeks.org/find-the-missing-number/) |
+| 1️⃣2️⃣ | Max Consecutive Zeros            | Finds the maximum number of consecutive 0s in array | MaxConsecutiveZeros.java   | [GFG](https://www.geeksforgeeks.org/maximum-consecutive-zeros-in-an-array/) |
 
 ---
 
