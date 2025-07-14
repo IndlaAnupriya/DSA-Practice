@@ -13,6 +13,7 @@ This repository contains my daily Java solutions to Data Structures and Algorith
 | 2025-07-11 | Second Largest, Second Smallest in Array, Rotate by One                      |
 | 2025-07-12 | Move Zeros to End, Linear Search                                              |
 | 2025-07-13 | Rotate Array by D Places, Find Missing Element, Max Consecutive Zeros        |
+| 2025-07-14 | LinkedList Creation, Insertions (Front, Last, Specific Position)             |
 
 ---
 
@@ -32,6 +33,15 @@ This repository contains my daily Java solutions to Data Structures and Algorith
 | 🔟 | Rotate Array by D Places          | Rotates array elements to the right by d positions  | RotateByDPlaces.java       | [GFG](https://www.geeksforgeeks.org/array-rotation/) |
 | 1️⃣1️⃣ | Find Missing Element             | Finds the missing number in range 1 to n            | FindMissingElement.java    | [GFG](https://www.geeksforgeeks.org/find-the-missing-number/) |
 | 1️⃣2️⃣ | Max Consecutive Zeros            | Finds the maximum number of consecutive 0s in array | MaxConsecutiveZeros.java   | [GFG](https://www.geeksforgeeks.org/maximum-consecutive-zeros-in-an-array/) |
+
+---
+
+## 🔗 Linked List Problems
+
+| No. | Problem Title             | Description                                            | File Name                   | Problem Link |
+|-----|---------------------------|--------------------------------------------------------|------------------------------|--------------|
+| 1️⃣ | LinkedList Creation       | Creates a singly linked list and appends elements     | LinkedListCreation.java      | N/A |
+| 2️⃣ | LinkedList Insertions     | Inserts at front, end, and specific position in list  | LinkedListInsertions.java    | N/A |
 
 ---
 
