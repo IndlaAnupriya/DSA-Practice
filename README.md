@@ -14,6 +14,7 @@ This repository contains my daily Java solutions to Data Structures and Algorith
 | 2025-07-12 | Move Zeros to End, Linear Search                                              |
 | 2025-07-13 | Rotate Array by D Places, Find Missing Element, Max Consecutive Zeros        |
 | 2025-07-14 | LinkedList Creation, Insertions (Front, Last, Specific Position)             |
+| 2025-07-15 | Find Middle Node in Linked List                                              |
 
 ---
 
@@ -42,6 +43,7 @@ This repository contains my daily Java solutions to Data Structures and Algorith
 |-----|---------------------------|--------------------------------------------------------|------------------------------|--------------|
 | 1️⃣ | LinkedList Creation       | Creates a singly linked list and appends elements     | LinkedListCreation.java      | N/A |
 | 2️⃣ | LinkedList Insertions     | Inserts at front, end, and specific position in list  | LinkedListInsertions.java    | N/A |
+| 3️⃣ | Find Middle Node          | Finds the middle node of a singly linked list         | FindMiddleNodeOfLL.java      | [GFG](https://www.geeksforgeeks.org/write-a-c-function-to-print-the-middle-of-the-linked-list/) |
 
 ---
 
