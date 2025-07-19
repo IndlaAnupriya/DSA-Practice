@@ -1,4 +1,3 @@
-
 # 🚀 DSA Practice in Java
 
 This repository contains my daily Java solutions to Data Structures and Algorithms (DSA) problems that I’m solving to improve my coding skills and prepare for placements and interviews.
@@ -19,6 +18,7 @@ This repository contains my daily Java solutions to Data Structures and Algorith
 | 2025-07-16 | Reverse Linked List                                                   |
 | 2025-07-17 | Detect Start of LinkedList Cycle                                      |
 | 2025-07-18 | Binary Search                                                         |
+| 2025-07-19 | Level Order Traversal                                                 |
 
 ---
 
@@ -52,6 +52,7 @@ This repository contains my daily Java solutions to Data Structures and Algorith
 | 4️⃣ | Detect Cycle in Linked List | Detects if a cycle exists using Floyd’s algorithm     | DetectCycleInLinkedList.java | [GFG](https://www.geeksforgeeks.org/detect-loop-in-a-linked-list/)                              |
 | 5️⃣ | Detect Start of Cycle       | Finds starting node of cycle using slow-fast pointers | DetectCycleStartNode.java    | [GFG](https://www.geeksforgeeks.org/find-first-node-of-loop-in-a-linked-list/)                  |
 | 6️⃣ | Reverse Linked List         | Reverses a singly linked list                         | ReverseLinkedList.java       | [GFG](https://www.geeksforgeeks.org/reverse-a-linked-list/)                                     |
+| 7️⃣ | Level Order Traversal       | Prints elements of a binary tree level by level       | LevelOrderTraversal.java     | [GFG](https://www.geeksforgeeks.org/level-order-tree-traversal/)                                |
 
 ---
 
